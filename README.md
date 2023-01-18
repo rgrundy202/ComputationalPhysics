@@ -19,10 +19,6 @@ I then expanded these mass layers into three dimensions and translated the data 
 
 ![density_m](rho_m.gif)
 
-I then interpolated the mass data into its corresponding radius data and created the following animation of the density related to the radius of the star over time.
-
-![density_r](rho_r.gif)
-
 Here is perhaps the most interesting and most illustrating of the results. This animation shows the speeds of various particles on the Z axis and the mass is shown on the XY axis. You can clearly see the way the shockwave permeates the masslayers as the star collapses and then explodes.
 
 ![u_m](u_m.gif)
